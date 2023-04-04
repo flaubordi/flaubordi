@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/Provas Oculares/Front-end Kotlin"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
